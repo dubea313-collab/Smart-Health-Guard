@@ -1,0 +1,16 @@
+Microcontroller: Arduino Uno
+
+MLX90614:
+- VCC → 5V
+- GND → GND
+- SDA → A4
+- SCL → A5
+
+Relay Module:
+- IN → D7
+- VCC → 5V
+- GND → GND
+
+Pump:
+- Powered using external 5V supply
+- Controlled via relay NO-COM

@@ -1,0 +1,7 @@
+- Arduino Uno
+- MLX90614 IR Temperature Sensor
+- 1-Channel Relay Module
+- DC Water Pump
+- External Power Supply
+- Jumper Wires
+- Breadboard
