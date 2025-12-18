@@ -1,0 +1,2 @@
+Project frozen at v1.0.
+Structure and documentation considered stable.
