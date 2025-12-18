@@ -1,4 +1,4 @@
-# Non-Contact Temperature-Based Sanitization System
+# Smart Health Guard
 
 ## Project Status
 Working hardware prototype (proof-of-concept)
@@ -39,4 +39,5 @@ breadboard to validate functionality.
 - Enclosure and safety improvements
 
 ## Demo
+
 See working prototype video in /media/demo_video_link.txt
