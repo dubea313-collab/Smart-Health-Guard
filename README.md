@@ -41,3 +41,5 @@ breadboard to validate functionality.
 ## Demo
 
 See working prototype video in /media/demo_video_link.txt
+
+By Andile Tafuma Dube
